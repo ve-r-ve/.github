@@ -25,6 +25,7 @@ Our code doesn’t make noise, it composes music
 |   DevBox | Republic of Frontend Frameworks         |
 | vPresent | Don't Pitch the minds; Pitch the hearts |
 |      vAs | Analytics made concise                  |
+|    quark | Cross platform web based app framework  |
 
 ---
 
