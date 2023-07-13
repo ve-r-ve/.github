@@ -18,14 +18,15 @@ Our code doesn’t make noise, it composes music
 
 **In our bunker**
 
-|  Project | Description                             |
-| -------: | :-------------------------------------- |
-|      CDS | Design System towards infinity          |
-|      vOS | OS for everyone                         |
-|   DevBox | Republic of Frontend Frameworks         |
-| vPresent | Don't Pitch the minds; Pitch the hearts |
-|      vAs | Analytics made concise                  |
-|    quark | Cross platform web based app framework  |
+|  Project | Description                                  |
+| -------: | :------------------------------------------- |
+|      CDS | Design System towards infinity               |
+|      vOS | OS for everyone                              |
+|   DevBox | Republic of Frontend Frameworks              |
+| vPresent | Don't Pitch the minds; Pitch the hearts      |
+|      vAs | Analytics made concise                       |
+|    quark | Cross platform web based app framework       |
+|  GisBlog | GitHub Discussions Based Blogging framework  |
 
 ---
 
