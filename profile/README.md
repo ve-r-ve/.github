@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Verve" src="https://github.com/ve-r-ve/.github/raw/main/profile/logo.svg" width=100 />
+<img alt="Verve" src="https://github.com/ve-r-ve/.github/assets/72294760/2b2cf1f0-de24-4ded-b91d-2ef7b226ee9d" width=100 />
 
 # Verve
 
